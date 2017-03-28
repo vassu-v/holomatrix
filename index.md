@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Project holomatrix
 
-You can use the [editor on GitHub](https://github.com/Prazma/holomatrix/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+>**Project holomatrix** is a project for building a **holographic display device**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is for one part of the project:
+* Building a interactive OS
+* Building a user interface
 
-### Markdown
+_We have more information below_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***
 
-```markdown
-Syntax highlighted code block
+### About
 
-# Header 1
-## Header 2
-### Header 3
+**holomatrix** is a project for building a **holographiv display device**.
 
-- Bulleted
-- List
+The members of this project is currently **2**. (Joining the Project Form is [closed](https://prazma.github.io/holomatrix/#About))
 
-1. Numbered
-2. List
+We are using plasma and photons. To create a device the size of a bit large and thick mobile phone.
 
-**Bold** and _Italic_ and `Code` text
+We are planning on adding touch and gesture interaction UI for this device.
 
-[Link](url) and ![Image](src)
-```
+### Donations
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+>_The donations are inactive_
 
-### Jekyll Themes
+***
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prazma/holomatrix/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(c)2017 Project holomatrix Team
