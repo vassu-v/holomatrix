@@ -1,1 +1,1 @@
-THISBIS THE OS FOR HOLOMATRIX SOURCW CODE FOLDER 
+Using Windows as os and controlling it with hand gestures using python
